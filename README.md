@@ -7,6 +7,7 @@
 
 # Since this is a dirty hack, you will need to manually edit 2 things:
 ### DDB table name
+https://github.com/fabiantan/spark-dynamodb-kinesis/blob/master/kinesis/src/main/scala/org/apache/spark/examples/streaming/KinesisDDB.scala#L110
 https://github.com/fabiantan/spark-dynamodb-kinesis/blob/master/kinesis/src/main/scala/org/apache/spark/examples/streaming/KinesisDDB.scala#L111
 
 ### HDFS IP address
