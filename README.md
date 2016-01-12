@@ -10,6 +10,6 @@
 https://github.com/fabiantan/spark-dynamodb-kinesis/blob/master/kinesis/src/main/scala/org/apache/spark/examples/streaming/KinesisDDB.scala#L110
 https://github.com/fabiantan/spark-dynamodb-kinesis/blob/master/kinesis/src/main/scala/org/apache/spark/examples/streaming/KinesisDDB.scala#L111
 
-### HDFS IP address
+#### HDFS IP address
 https://github.com/fabiantan/spark-dynamodb-kinesis/blob/master/kinesis/src/main/scala/org/apache/spark/examples/streaming/KinesisHelper.scala#L20
 ```
